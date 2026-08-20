@@ -8,20 +8,16 @@ My projects focus on solving real-world problems through accessible applications
 
 ## Current Focus
 
-I am currently expanding my skills in **Data Science, Machine Learning, and Prompt Engineering**, with a strong focus on applying these technologies to practical problems.
+I am currently strengthening my skills in **Data Science, Machine Learning, and Prompt Engineering**, with an emphasis on applying them to practical problems and projects.
 
-My current work includes:
+My current learning focuses on:
 
-* Data analysis, cleaning, and visualization
-* Statistical analysis and hypothesis testing
-* Regression, classification, and clustering
-* Natural Language Processing
-* Deep learning and neural networks
-* Predictive modeling and model evaluation
-* Time-series analysis
-* Prompt design, refinement, and evaluation for AI-assisted workflows
+* Data analysis, visualization, and statistical methods
+* Machine learning, model evaluation, and predictive modeling
+* Natural Language Processing and deep learning
+* Prompt design and AI-assisted workflows
 
-I work primarily with **Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, and related data science tools**.
+I primarily work with **Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, and TensorFlow**.
 
 ---
 
