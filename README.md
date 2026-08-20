@@ -19,40 +19,33 @@ I work primarily with **Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ## Projects
 
-### Connect Blind-Deaf Mute (Connect B-DM)
+### [Connect B-DM](https://github.com/ShiveshShrestha/connect-bdm)
 
-**Problem:**
-Communication can be difficult when people rely on different methods such as sign language, speech, and text.
+**Problem:** Communication can be difficult when people rely on different methods such as sign language, speech, and text.
 
-**Solution:**
-Developed web, Windows, and mobile-based systems that bridge sign language, text, and voice using machine learning, computer vision, speech processing, and accessible user interfaces.
+**Solution:** Developed web and Windows applications that connect sign language, text, and speech using machine learning, computer vision, speech processing, and accessibility-focused interfaces.
 
 ---
 
-### Nepal E-Voting System
+### [Nepal E-Voting System](https://github.com/ShiveshShrestha/nepal-e-voting-system)
 
-**Problem:**
-Electronic voting systems require strong mechanisms for voter verification, ballot integrity, duplicate-vote prevention, and transparent auditing.
+**Problem:** Electronic voting systems require strong mechanisms for voter verification, ballot integrity, duplicate-vote prevention, and transparent auditing.
 
-**Solution:**
-Developed an academic e-voting system with voter verification, secure ballot processing, duplicate-vote prevention, CSRF protection, login throttling, and a tamper-evident audit ledger.
+**Solution:** Developed an academic e-voting system with voter verification, ballot protection, duplicate-vote prevention, CSRF protection, login throttling, and a blockchain-inspired, tamper-evident audit ledger.
 
 ---
 
-### Report Generator
+### [Report Generator](https://github.com/ShiveshShrestha/report-generator)
 
-**Problem:**
-Preparing programming reports manually can require significant time for formatting code, screenshots, cover pages, and document structure.
+**Problem:** Preparing programming reports manually can require significant time for formatting code, screenshots, cover pages, and document structure.
 
-**Solution:**
-Developed a desktop application that automatically converts source code and screenshots into structured PDF reports, reducing repetitive formatting and documentation work.
+**Solution:** Developed a Python desktop application that converts source code, outputs, screenshots, and project details into structured PDF reports, reducing repetitive formatting and documentation work.
 
 ---
 
-### Lost and Found
+### [Lost and Found](https://github.com/ShiveshShrestha/lost-and-found)
 
-**Problem:**
-People who lose personal belongings often lack a reliable way to connect with finders while ensuring that items are returned to the rightful owner.
+**Problem:** People who lose personal belongings often lack a reliable way to connect with finders while ensuring that items are returned to the rightful owner.
 
-**Solution:**
-Developed a full-stack web application for reporting lost and found items, searching listings, submitting ownership claims, providing evidence, reviewing claims, and securely connecting verified users.
+**Solution:** Developed a full-stack web application for reporting lost and found items, searching listings, submitting ownership claims, providing evidence, reviewing claims, and connecting verified users.
+
