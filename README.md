@@ -1,3 +1,11 @@
+# Shivesh Shrestha
+
+**AI & Machine Learning Developer | Full-Stack Developer**
+
+I build practical software using machine learning, computer vision, data science, automation, and full-stack development.
+
+My projects focus on solving real-world problems through accessible applications, secure web systems, developer tools, and applied AI.
+
 ## Current Focus
 
 I am currently expanding my skills in **Data Science, Machine Learning, and Prompt Engineering**, with a strong focus on applying these technologies to practical problems.
