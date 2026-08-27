@@ -39,7 +39,7 @@ I primarily work with **Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ---
 
-### [Document-Formatter](https://github.com/ShiveshShrestha/document-formatter)
+### [Document Formatter](https://github.com/ShiveshShrestha/document-formatter)
 
 **Problem:** Preparing programming reports manually can require significant time for formatting code, screenshots, cover pages, and document structure.
 
